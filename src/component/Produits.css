@@ -1,0 +1,21 @@
+card{
+    width:auto;
+    min-width:200px;
+}
+
+img{
+    width:auto;
+    height:300px;
+}
+
+.bg-white{
+    background-color:white;
+}
+
+.bg-red{
+    background-color:red;
+}
+
+.bg-orange{
+    background-color: orange;
+}
